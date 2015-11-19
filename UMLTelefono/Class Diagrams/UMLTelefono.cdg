@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="UMLTelefono">
+  <ClassDiagramComponents>
+    <Class name="TelefonoCellulare" package="" visibility="public" xPosition="321.0" yPosition="196.0">
+      <Fields>
+        <Field name="Sms" type="String" visibility="private"/>
+      </Fields>
+      <Constructors>
+        <Constructor visibility="public"/>
+      </Constructors>
+      <Methods>
+        <Method name="inviaSms" returnType="void" visibility="public"/>
+        <Method name="riceviSms" returnType="String" visibility="public"/>
+        <Method name="mostraSms" returnType="String" visibility="public"/>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
